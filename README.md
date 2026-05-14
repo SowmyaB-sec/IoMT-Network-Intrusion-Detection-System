@@ -183,8 +183,6 @@ This is a research prototype. Contributions welcome for:
 
 ---
 
----
-
 **Based on:** Zachos, G., et al. (2022). "A Hybrid Intrusion Detection System for IoMT Networks." *IEEE Access*.
 
 ---
