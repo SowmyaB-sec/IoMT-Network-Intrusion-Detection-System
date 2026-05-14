@@ -121,15 +121,14 @@ iomt-ids/
 ├── docs/
 │   ├── SETUP.md           # Testbed configuration guide
 │   ├── ATTACKS.md         # Attack simulation commands
-│   └── ARCHITECTURE.md    # Technical deep-dive
 └── screenshots/
 ├── dashboard_normal.png
 ├── attack_cpu.png
 ├── attack_memory.png
 ├── attack_process.png
-└── attack_network.png
+└── attack_network-1.png
+└── attack_network-2.png
 ```
-
 ---
 
 ## Technical Background
