@@ -84,7 +84,7 @@ The system detects four critical attack types:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/iomt-ids.git
+git clone https://github.com/SowmyaB-sec/IOMT-Network-Intrusion-Detection-System.git
 cd iomt-ids
 ```
 
